@@ -20,10 +20,10 @@
     <string name="prefs_keyboard_height_scale">Высота клавиатуры</string>
     <string name="number_row">Ряд цифр</string>
     <string name="number_row_summary">Для всех раскладок, имеющих 4 ряда клавиш, всегда показывать ряд цифр</string>
-    <string name="space_trackpad">Пробел как трекпад</string>
-    <string name="space_trackpad_summary">Перемещать курсор свайпом по клавише пробела</string>
-    <string name="show_longpress_hints">Подсказки при длительном нажатии клавиш</string>
+    <string name="space_trackpad">Жест на пробеле</string>
+    <string name="space_trackpad_summary">Перемещать курсор жестом по клавише пробела</string>
+    <string name="show_longpress_hints">Подсказки при длительном нажатии</string>
     <string name="show_longpress_hints_summary">Показывать всплывающие подсказки при длительном нажатии клавиш</string>
-    <string name="show_emoji_key">Показать клавишу смайликов</string>
-    <string name="show_emoji_key_summary">Всегда показывать клавишу смайликов.</string>
+    <string name="show_emoji_key">Показать клавишу эмоций</string>
+    <string name="show_emoji_key_summary">Всегда показывать клавишу эмоций</string>
 </resources>
